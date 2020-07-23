@@ -18,8 +18,11 @@ These instructions will get you a copy of the project up and running on your loc
 1. Download the song with marker data  [Here](https://mega.nz/file/M7hhXYZQ#JccvLYpBFHZnP1X945GXkO-M4_x8gAv4UqkmSsCZ0AI)
 2. Watch this [Youtube Video](https://youtu.be/wEkkZBY2Ja4) first!
 3. Add a phone number (as a string) to `num.py`
-4. Run the `send.py` file with Python
-5. Improve this repo, and DM me on [Discord](https://discord.gg/9RGdMcF), [TikTok](https://www.tiktok.com/@mattupham), or [Instagram](https://instagram.com/mattupham), and I'll feature you in a future video!
+4.  Create an account at https://www.twilio.com/
+5.Add your ACCOUNT SID to ACCOUNT SID in send.py
+6. Add your AUTH TOKEN in send.py
+7. Run the `send.py` file with Python
+6. Improve this repo, and DM me on [Discord](https://discord.gg/9RGdMcF), [TikTok](https://www.tiktok.com/@mattupham), or [Instagram](https://instagram.com/mattupham), and I'll feature you in a future video!
 
 <br>
 
