@@ -1,6 +1,8 @@
 I did not create this bot all credit goes to **Matt Upham**. I just edited it to make it sync up to the shrek theme song and made it send sms messages using Twilio.
 This repo goes along with [this YouTube video](https://youtu.be/wEkkZBY2Ja4). Copy and paste song lyrics, movie scripts, etc into the lyrics file. Add your friend's phone number to the num file, run, and watch as it sends texts one by one, for every word!
 
+
+
 ## Features / Specifications
 
 - works with the iMessage client on Mac (feel free to substitute an SMS API)
@@ -13,11 +15,11 @@ This repo goes along with [this YouTube video](https://youtu.be/wEkkZBY2Ja4). Co
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Instructions
-
-1. Watch this [Youtube Video](https://youtu.be/wEkkZBY2Ja4) first!
-2. Add a phone number (as a string) to `num.py`
-3. Run the `send.py` file with Python
-4. Improve this repo, and DM me on [Discord](https://discord.gg/9RGdMcF), [TikTok](https://www.tiktok.com/@mattupham), or [Instagram](https://instagram.com/mattupham), and I'll feature you in a future video!
+1. Download the song with marker data  [Here](https://mega.nz/file/M7hhXYZQ#JccvLYpBFHZnP1X945GXkO-M4_x8gAv4UqkmSsCZ0AI)
+2. Watch this [Youtube Video](https://youtu.be/wEkkZBY2Ja4) first!
+3. Add a phone number (as a string) to `num.py`
+4. Run the `send.py` file with Python
+5. Improve this repo, and DM me on [Discord](https://discord.gg/9RGdMcF), [TikTok](https://www.tiktok.com/@mattupham), or [Instagram](https://instagram.com/mattupham), and I'll feature you in a future video!
 
 <br>
 
